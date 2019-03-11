@@ -1,0 +1,21 @@
+.lvl{
+    border-bottom: 2PX;
+    border-color: black;
+    border-bottom-width: 90%; 
+    border-bottom-style: groove;
+    padding-bottom: .5%;
+}
+
+.twitter-mention-button{
+    margin-top: .5%;
+}
+
+#orderedList{
+    margin-left: 1.5%;
+}
+.tab{
+    margin-left: 1.5%;
+}
+.tab1{
+    list-style-type: circle;
+}
